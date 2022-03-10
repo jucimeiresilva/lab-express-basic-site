@@ -1,0 +1,28 @@
+* {
+    margin: 10px 10rem
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(206, 206, 214);
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 1,5em;
+    font-size: 2rem;
+    
+}
+
+
+
+
+h1, h2, h3,
+p {
+    color:rgb(27, 49, 49);
+    margin: 10px;
+    font-size:large;
+}
